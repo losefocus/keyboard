@@ -1,7 +1,11 @@
 # keyboard
 
-> A Vue.js project
+> 运行后显示
 ![Image text](https://camo.githubusercontent.com/64ca189aff449904a9dc726f96d9f32593d56a99/68747470733a2f2f6f6f6f2e306f302e6f6f6f2f323031362f30382f30382f353761383937356632643662302e706e67)
+
+原作者是基于vue1.0，做了一点小修改以适应2.0
+参考 https://github.com/CodeDaraW/vue-virtual-keyboard
+
 ## Build Setup
 
 ``` bash
