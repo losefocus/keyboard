@@ -70,7 +70,7 @@ textarea {
 </style>
 <template>
 <div>
-	<!-- <textarea type="text" v-model="keyboardText"></textarea> -->
+	<textarea type="text" v-model="keyboardText"></textarea>
 	<ul class="keyboard">
 		<li v-for="(key,index) in keyList"
 		 :key="index" 
